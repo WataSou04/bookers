@@ -24,6 +24,19 @@ body {
   margin: 50px;
 }
 
+.top-title {
+  margin-bottom: 20px;
+}
+
+.top-text {
+  margin-bottom: 25px;
+  margin-left: 40px;
+}
+
+.top-link {
+  margin-left: 40px;
+}
+
 .index-books {
   margin-bottom: 15px;
 }
@@ -55,4 +68,27 @@ table {
 
 .create-book {
   margin-top: 10px;
+}
+
+.notice {
+  margin-bottom: 40px;
+  margin-left: 40px;
+  color: green;
+}
+
+.show-text {
+  margin-bottom: 40px;
+  margin-left: 40px;
+}
+
+.edit-title {
+  margin-bottom: 10px;
+}
+
+.edit-area {
+  margin-bottom: 10px;
+}
+
+.update {
+  margin-bottom: 10px;
 }
