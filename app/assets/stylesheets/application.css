@@ -23,3 +23,36 @@
 body {
   margin: 50px;
 }
+
+.index-books {
+  margin-bottom: 15px;
+}
+
+table {
+  margin-bottom: 5px;
+}
+
+.index-title {
+  padding: 3px;
+}
+
+.index-body {
+  padding-left: 15px;
+}
+
+.action {
+  padding-left: 10px;
+}
+
+.new-book {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.new-body {
+  margin-top: 10px;
+}
+
+.create-book {
+  margin-top: 10px;
+}
